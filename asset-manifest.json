@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/testProject/static/css/main.70709167.css",
+    "main.js": "/testProject/static/js/main.230f64eb.js",
+    "static/media/hero-car.jpg": "/testProject/static/media/hero-car.7408bee866c98bf283d5.jpg",
+    "static/media/sprite.svg": "/testProject/static/media/sprite.859fe33132ea42187805cc25707e0d5c.svg",
+    "index.html": "/testProject/index.html",
+    "main.70709167.css.map": "/testProject/static/css/main.70709167.css.map",
+    "main.230f64eb.js.map": "/testProject/static/js/main.230f64eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70709167.css",
+    "static/js/main.230f64eb.js"
+  ]
+}
